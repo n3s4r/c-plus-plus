@@ -1,4 +1,3 @@
-// create_shortcuts.cpp // Build: cl /EHsc create_shortcuts.cpp /link
 Shell32.lib Ole32.lib
 
 #include <windows.h> #include <shlobj.h> #include <shobjidl.h> #include
